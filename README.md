@@ -13,8 +13,8 @@ previous_posters
 
 Before usage fill in the config.py file with the following:
 
-API_ID     ( get it at https://my.telegram.org/ ) 
-API_HASH   ( Get it at https://my.telegram.org/ )
-CHANNEL    ( The name of the channel you would like to pull the stats on )
+API_ID     ( get it at https://my.telegram.org/ )  
+API_HASH   ( Get it at https://my.telegram.org/ )  
+CHANNEL    ( The name of the channel you would like to pull the stats on )  
 
 Happy usage!
