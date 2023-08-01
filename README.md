@@ -17,4 +17,6 @@ API_ID     ( get it at https://my.telegram.org/ )
 API_HASH   ( Get it at https://my.telegram.org/ )  
 CHANNEL    ( The name of the channel you would like to pull the stats on )  
 
-Happy usage!
+Happy usage!    
+
+Visit: https://solutioning.eu for more solutions.
