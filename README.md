@@ -3,13 +3,13 @@
 This script will retrive the following Telegram channel stats:
 
 current_members     
-previous_members
-current_viewers
-previous_viewers
-current_messages
-previous_messages
-current_posters
-previous_posters 
+previous_members  
+current_viewers  
+previous_viewers  
+current_messages  
+previous_messages  
+current_posters  
+previous_posters   
 
 Before usage fill in the config.py file with the following:
 
